@@ -4,3 +4,5 @@
 /install-sh
 /missing
 /scripts/Makefile.in
+/config.log
+/configure
